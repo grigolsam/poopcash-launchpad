@@ -277,8 +277,8 @@ MIT
 
 Twitter: [@poopdotcash](https://twitter.com/poopdotcash)
 
-Website: [poop.cash](https://poop.cash)
-
+Website: [poop.cash](poopcash.fun)
+poop.cash domain coming soon
 ---
 
 *Built in public. Contracts published. Community owned.*
